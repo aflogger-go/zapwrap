@@ -1,4 +1,4 @@
-module zapwrap
+module github.com/aflogger-go/zapwrap
 
 require (
 	github.com/aflogger-go/logger v1.0.0
