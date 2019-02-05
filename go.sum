@@ -1,0 +1,12 @@
+github.com/aflogger-go/logger v0.0.0-20190205123959-a428c1b5b810 h1:TpCDGQ6sJXpji03+KlgldzNnccArxRApSb9cm27+eIQ=
+github.com/aflogger-go/logger v0.0.0-20190205123959-a428c1b5b810/go.mod h1:eauLmNkrBVrkw1aFHF5QS3KCD0qOoay9qnGEhlgehgo=
+github.com/aflogger-go/logger v0.0.0-20190205134806-e9331170c97a h1:Oo9RDLSQQOZ7SKEg0GQYIu1xq9pp4kE14cguauVyMSY=
+github.com/aflogger-go/logger v0.0.0-20190205134806-e9331170c97a/go.mod h1:eauLmNkrBVrkw1aFHF5QS3KCD0qOoay9qnGEhlgehgo=
+github.com/aflogger-go/logger v1.0.0 h1:knyawoDwsEaqG8z/EfN/R4C6Owxv9FNvxGQ7DX4MNdg=
+github.com/aflogger-go/logger v1.0.0/go.mod h1:eauLmNkrBVrkw1aFHF5QS3KCD0qOoay9qnGEhlgehgo=
+go.uber.org/atomic v1.3.2 h1:2Oa65PReHzfn29GpvgsYwloV9AVFHPDk8tYxt2c2tr4=
+go.uber.org/atomic v1.3.2/go.mod h1:gD2HeocX3+yG+ygLZcrzQJaqmWj9AIm7n08wl/qW/PE=
+go.uber.org/multierr v1.1.0 h1:HoEmRHQPVSqub6w2z2d2EOVs2fjyFRGyofhKuyDq0QI=
+go.uber.org/multierr v1.1.0/go.mod h1:wR5kodmAFQ0UK8QlbwjlSNy0Z68gJhDJUG5sjR94q/0=
+go.uber.org/zap v1.9.1 h1:XCJQEf3W6eZaVwhRBof6ImoYGJSITeKWsyeh3HFu/5o=
+go.uber.org/zap v1.9.1/go.mod h1:vwi/ZaCAaUcBkycHslxD9B2zi4UTXhF60s6SWpuDF0Q=
